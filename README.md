@@ -6,10 +6,12 @@
 
 [This](https://github.com/IamAdiSri/cmn4recosys) repository by [**Aditya Srivastava**](https://github.com/IamAdiSri/) is a PyTorch port to the original TensorFlow [project](https://github.com/tebesu/CollaborativeMemoryNetwork).
 
+____
+
 ### Running the Collaborative Memory Network
 
 1. Start a Jupyter server and open the notebook. 
-2. Run the cells starting at the top and moving downwards.
+2. Run notebook cells, beginning at the top and moving downwards.
 3. **Pretraining the network is optional**; pretrained embeddings have been provided already in `pretrain/`.
 
 ### Requirements
@@ -17,7 +19,6 @@
 * Jupyter
 * PyTorch
 * Matplotlib
-
 
 ### Data Format
 
@@ -28,10 +29,12 @@ train_data = [[user id, item id], ...]
 test_data = {userid: (pos_id, [neg_id1, neg_id2, ...]), ...}
 ```
 
-### Acknowledgements
+____
 
-My, thanks to Travis Ebesu, author of the paper linked above, for helping debug the project and clear up any questions I had about the Tensorflow implementation.
+## Credit and Acknowledgements
 
-### Issues
+My thanks to Travis Ebesu, author of the paper linked above, for helping debug the project and clear up any questions I had along the way.
+
+## Issues
 
 Please feel free to contact me/raise an issue in case of any quesations/bugs.
