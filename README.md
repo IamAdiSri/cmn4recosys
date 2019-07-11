@@ -31,9 +31,9 @@ test_data = {userid: (pos_id, [neg_id1, neg_id2, ...]), ...}
 
 ____
 
-## Credit and Acknowledgements
+## Acknowledgements
 
-My thanks to Travis Ebesu, author of the paper linked above, for helping debug the project and clear up any questions I had along the way.
+My thanks to Travis Ebesu, one of the authors of the paper linked above, for helping debug the project and clear up any questions I had along the way.
 
 ## Issues
 
