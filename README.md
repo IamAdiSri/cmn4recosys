@@ -15,10 +15,11 @@ ____
 3. **Pretraining the network is optional**; pretrained embeddings have been provided already in `pretrain/`.
 
 ### Requirements
-* Python 3.6
+* Python 3.6.7
 * Jupyter
-* PyTorch
-* Matplotlib
+* torch 1.1.0
+* numpy 1.16.4
+* tqdm 4.32.2
 
 ### Data Format
 
