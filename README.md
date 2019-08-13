@@ -38,4 +38,4 @@ My thanks to Travis Ebesu, one of the authors of the paper linked above, for hel
 
 ## Issues
 
-Please feel free to contact me/raise an issue in case of any quesations/bugs.
+Please feel free to contact me/raise an issue in case of any questions/bugs.
